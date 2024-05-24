@@ -1,0 +1,8 @@
+hostname : RT01
+interfaces :
+  - name : GigabitEthernet 0/1
+    ip_address : 10.0.0.1
+    subnet_mask : 255.255.255.0
+  - name : gigabitEthernet 0/2
+    ip_address : 10.0.1.1
+    subnet_mask : 255.255.255.0

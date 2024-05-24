@@ -1,0 +1,4 @@
+APIC,Serial,NodeName,NodeId,Podid
+192.168.1.10 ,1234abcd ,ACI_node-1,111,1
+192.168.1.10 ,2234abcd ,ACI_node-2,112,1
+192.168.1.10 ,3234abcd ,ACI_node-3,113,1
