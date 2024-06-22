@@ -7,6 +7,52 @@ Developer: ilker MANSUR
 Email: imansur@morten.com.tr
 GitHub: github.com/ilkermansur
 
+=== Example Output ===
+
+{
+        "deviceId": "100.255.35.1",
+        "system-ip": "100.255.35.1",
+        "host-name": "IZM-BRANCH-1-R1",
+        "reachability": "unreachable",
+        "status": "normal",
+        "personality": "vedge",
+        "device-type": "vedge",
+        "timezone": "UTC +0000",
+        "device-groups": [
+            "No groups"
+        ],
+        "lastupdated": 1718345422380,
+        "bfdSessionsUp": 0,
+        "domain-id": "1",
+        "board-serial": "0193041F",
+        "certificate-validity": "Valid",
+        "max-controllers": "0",
+        "uuid": "C1111X-8P-FGL231912KY",
+        "bfdSessions": "--",
+        "controlConnections": "--",
+        "device-model": "vedge-C1111X-8P",
+        "version": "17.12.01a.0.118",
+        "connectedVManages": [],
+        "site-id": "35005",
+        "ompPeers": "--",
+        "latitude": "37.666684",
+        "longitude": "-122.777023",
+        "isDeviceGeoData": false,
+        "platform": "x86_64",
+        "uptime-date": 1715929680000,
+        "statusOrder": 4,
+        "validity": "valid",
+        "state": "green",
+        "state_description": "All daemons up",
+        "model_sku": "None",
+        "local-system-ip": "100.255.35.1",
+        "total_cpu_count": "4",
+        "linux_cpu_count": "2",
+        "testbed_mode": false,
+        "layoutLevel": 4,
+        "site-name": "SITE_35005"
+    },
+
 === Get Device Info ARGs===
 
 
